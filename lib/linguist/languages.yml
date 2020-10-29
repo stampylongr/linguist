@@ -3902,6 +3902,12 @@ P4:
   tm_scope: source.p4
   ace_mode: text
   language_id: 348895984
+Panda:
+  type: programming
+  color: "#4f9550"
+  extensions:
+  - ".pnd"
+  ace_mode: text
 PHP:
   type: programming
   tm_scope: text.html.php
